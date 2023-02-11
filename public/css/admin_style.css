@@ -1,0 +1,10 @@
+img {
+    max-width: 200px!important;
+    max-height: 200px!important;
+    height: auto!important;
+}
+
+.thead {
+    display: flex;
+    justify-content: space-around;
+}
